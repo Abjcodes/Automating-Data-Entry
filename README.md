@@ -19,3 +19,5 @@ Selenium and Beautifulsoup are used for fetching links of each restaurant websit
 
 ## Outcome:
 Using the web scraper 37 websites were automatically scraped under 15 minutes.
+
+![result](https://user-images.githubusercontent.com/42151354/92080367-1429e000-eddf-11ea-99e6-283db21e88c6.png)
